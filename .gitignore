@@ -1,6 +1,14 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.GameArt.iml
+/modules.xml
 # Compiled Object files
 *.slo
 *.lo
